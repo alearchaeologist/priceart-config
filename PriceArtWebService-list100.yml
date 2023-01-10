@@ -1,5 +1,6 @@
 #Application Config
-application.listino: 100
+application:
+listino: 100
 
 #######################################
 ##### ACTUATOR PARAMETERS #############
